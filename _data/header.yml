@@ -21,7 +21,7 @@ type: extended
 # Configuration for site header logo
 # If the logo is external add external: true
 logo:
-  src: /miff-works/assets/img/logo-placeholder.png
+  src: assets/img/logo-placeholder.png
   alt: Mifflinburg Innovation Works Logo
 
 # this is a key into _data/navigation.yml
