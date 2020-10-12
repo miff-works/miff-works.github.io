@@ -24,7 +24,6 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 markdown: kramdown
 remote_theme: 18F/uswds-jekyll
 plugins:
-  - jekyll-remote-theme
   - jekyll-feed
 
 # Exclude from processing.
